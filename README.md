@@ -1,7 +1,7 @@
-# beta-vae-3D-shapes
-[Lukas Müller & Luca Hermes - Beta VAE for 3D Voxel Shapes](https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/beta-vae.ipynb)
+# Autoencoder for Common 3D Voxel Shapes in Robotics / beta-vae-3D-shapes
+[Lukas Müller & Luca Hermes - AE for Common 3D Voxel Shapes](https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/ae.ipynb)
 
-Attempt to train a beta Variational Autoencoder capable of learning the latent representation of common 3d shapes.
+Attempt to train a (beta Variational) Autoencoder capable of learning the latent representation of common 3d shapes in robotics.
 
 # Voxel Shapes Source
 [Andrew Melnik - VoxelView](https://github.com/ndrwmlnk/VoxelView)
