@@ -5,7 +5,7 @@ Attempt to train a (beta Variational) Autoencoder capable of learning the latent
 
 ![alt text][image01]
 
-[image01]: /images/test04 "Cube Sphere Pen Results"
+[image01]: https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/images/test04.png "Cube Sphere Pen Results"
 
 # Voxel Shapes Source
 [Andrew Melnik - VoxelView](https://github.com/ndrwmlnk/VoxelView)
