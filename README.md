@@ -3,6 +3,10 @@
 
 Attempt to train a (beta Variational) Autoencoder capable of learning the latent representation of common 3d shapes in robotics.
 
+![alt text][image01]
+
+[image01]: /images/test04 "Cube Sphere Pen Results"
+
 # Voxel Shapes Source
 [Andrew Melnik - VoxelView](https://github.com/ndrwmlnk/VoxelView)
 
