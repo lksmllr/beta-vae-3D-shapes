@@ -3,9 +3,16 @@
 
 Attempt to train a (beta Variational) Autoencoder capable of learning the latent representation of common 3d shapes in robotics.
 
+## Input & Reconstruction
+
 ![alt text][image01]
 
+## Visualization of Latent Space (size 8) after 10 Epochs
+
+![alt text][image02]
+
 [image01]: https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/images/test04.png "Cube Sphere Pen Results"
+[image02]: https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/images/latent_space_size_8.png "Latent Space"
 
 # Voxel Shapes Source
 [Andrew Melnik - VoxelView](https://github.com/ndrwmlnk/VoxelView)
