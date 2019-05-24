@@ -9,7 +9,7 @@ Attempt to train a (beta Variational) Autoencoder capable of learning the latent
 
 ## Visualization of Latent Space after 10 Epochs
 
-![alt text][image02]
+![alt text][image02 =250x250]
 
 [image01]: https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/images/test04.png "Cube Sphere Pen Results"
 [image02]: https://github.com/lksmllr/beta-vae-3D-shapes/blob/master/images/latent_space_size_8.png "Latent Space"
