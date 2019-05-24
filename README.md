@@ -7,7 +7,7 @@ Attempt to train a (beta Variational) Autoencoder capable of learning the latent
 
 ![alt text][image01]
 
-## Visualization of Latent Space (size 8) after 10 Epochs
+## Visualization of Latent Space after 10 Epochs
 
 ![alt text][image02]
 
