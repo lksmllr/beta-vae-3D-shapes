@@ -8,7 +8,7 @@ Attempt to train a (beta Variational) Autoencoder capable of learning the latent
 ![alt text][image01]
 
 ## Visualization of Latent Space
-Classes: Cube, Sphere, Pen/Stick
+Classes: Purple=Cube, Green=Sphere, Yellow=Pen/Stick
 
 ![alt text][image02]
 
